@@ -1,0 +1,15 @@
+[
+    {
+        "id":1,
+        "rulename":"must be five characters"
+    },
+    {
+        "id":2,
+        "rulename":"How nice you are?"
+    },
+    {
+        "id":3,
+        "rulename":"forgiveness is a virtue not a vice"
+    }
+
+]
